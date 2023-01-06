@@ -1,6 +1,9 @@
 # 💫 About Me:
 🔭 I've interned at TikTok as a Software Engineering<br>🤝 I’m looking for a position as a Software Engineering position after May 2023<br>🌱 I’m currently learning query algorithms and system design<br>⚡ Fun fact, I am a yo-yo player
 
+## 📖 Publications ([google scholar]):
+- **Research on the Use of YOLOv5 Object Detection Algorithm in Mask wearing Recognition**. **Yifan Liu**, BingHang Lu, Jingyu Peng, Zihao Zhang. World Scientific Research Journal, 2020 (DOI: 10.6911/WSRJ.202011_6(11).0038).
+- **Towards Knowledge-Graph Constrained Generation for Text Adventure Games**. Graham Todd, Zegang Cheng, **Yifan Liu**, Julian Togelius. NAACL 2022 Workshop Wordplay Program, 2022.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yifan-liu-232364195/) 
@@ -12,3 +15,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=bmmliu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bmmliu&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bmmliu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job.)
+
+   [google scholar]: <https://scholar.google.com/citations?hl=en&user=pplw1EYAAAAJ>

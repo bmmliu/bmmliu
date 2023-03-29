@@ -4,6 +4,7 @@
 ## 📖 Publications ([google scholar]):
 - **Research on the Use of YOLOv5 Object Detection Algorithm in Mask wearing Recognition**. **Yifan Liu**, BingHang Lu, Jingyu Peng, Zihao Zhang. World Scientific Research Journal, 2020 (DOI: 10.6911/WSRJ.202011_6(11).0038).
 - **Towards Knowledge-Graph Constrained Generation for Text Adventure Games**. Graham Todd, Zegang Cheng, **Yifan Liu**, Julian Togelius. NAACL 2022 Workshop Wordplay Program, 2022.
+- **Does COO Matter in Value Co-creation of Cross-border E-commerce?**. Zhen Qin, Yan Ni, **Yifan Liu**. WHICEB, 2020
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yifan-liu-232364195/) 
